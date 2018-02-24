@@ -2,4 +2,4 @@
 into tutorial
 
 Hello!
-Just practiciing here
+Just practicing here
